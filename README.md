@@ -1,4 +1,3 @@
-# Define the content of the README.md file as a string
 # 📘 Mental Health Text Classification using DistilBERT
 
 This project builds a mental health text classifier using a fine-tuned DistilBERT model. It focuses on identifying the mental health status expressed in user-generated text through NLP techniques and transformer-based classification, while addressing data imbalance using augmentation and loss weighting.
